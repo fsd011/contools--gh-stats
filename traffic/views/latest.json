@@ -1,5 +1,5 @@
 {
-  "count": 60,
+  "count": 62,
   "uniques": 10,
   "views": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "timestamp": "2022-03-21T00:00:00Z",
-      "count": 12,
+      "count": 14,
       "uniques": 2
     }
   ]
