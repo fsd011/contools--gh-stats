@@ -1,0 +1,11 @@
+{
+  "timestamp" : "2022-04-20T08:24:49Z",
+  "count" : 17,
+  "count_minmax" : [ 17, 17 ],
+  "count_prev_day_inc" : 17,
+  "count_prev_day_dec" : 0,
+  "uniques" : 9,
+  "uniques_minmax" : [ 9, 9 ],
+  "uniques_prev_day_inc" : 9,
+  "uniques_prev_day_dec" : 0
+}
