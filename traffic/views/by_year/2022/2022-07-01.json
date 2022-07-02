@@ -1,0 +1,9 @@
+{
+  "timestamp" : "2022-07-02T00:32:43Z",
+  "count" : 31,
+  "count_minmax" : [ 31, 31 ],
+  "count_decinc" : [ -0, +31 ],
+  "uniques" : 2,
+  "uniques_minmax" : [ 2, 2 ],
+  "uniques_decinc" : [ -0, +2 ]
+}
